@@ -1,0 +1,4 @@
+venv
+*.pyc
+*~
+omnifocus_trello.db
